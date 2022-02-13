@@ -41,8 +41,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Solution](https://github.com/vignalbrice/nft-card-component)
+- Live Site URL: [Live site](https://vignalbrice.github.io/nft-card-component/)
 
 ## My process
 
